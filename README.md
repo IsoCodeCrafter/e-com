@@ -3,4 +3,4 @@
 <img id="close" src="./images/e-com1.gif" />
 
 
-<img id="close" src="./images/profile banner.mp4" />
+<img id="close" src="./images/profile banner.gif" />
